@@ -18,7 +18,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   var _questionIndex = 0;
 
-  void answerQuestion() {
+  void _answerQuestion() {
     setState(() {
       _questionIndex = _questionIndex + 1;
     });
@@ -27,7 +27,9 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    var question = [
+    var question = [//{
+      //'questionText':,'answer':['Black', 'Blue', 'Green', 'White'],
+    //},
       'What\'s your favorite color?',
       'Whats\'s your favorite animal?',
     ];
@@ -46,5 +48,5 @@ class _MyAppState extends State<MyApp> {
         ),
       ),
     );
-  } 
+  }
 }
