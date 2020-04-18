@@ -3,6 +3,8 @@
 A new Flutter application.
 
 ## Getting Started
+[Lab: 1. Flutter Setup](https://flutter.io/setup/)
+
 
 This project is a starting point for a Flutter application.
 
