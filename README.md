@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-1.Flutter Setup(https://flutter.io/setup/)
+[1.Flutter Setup](https://flutter.io/setup/)
 
 2. Clone the repo
 ```
