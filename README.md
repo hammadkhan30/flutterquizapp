@@ -4,6 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
+<<<<<<< Updated upstream
 * [Flutter Setup](https://flutter.io/setup/)
 
 * Clone the repo
@@ -11,3 +12,4 @@ A new Flutter application.
 $ git clone https://github.com/hammadkhan30/flutterquizapp.git
 $ cd flutterquizapp/
 ```
+
